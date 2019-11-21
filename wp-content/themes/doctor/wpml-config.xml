@@ -1,0 +1,33 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">doctor_gallery</custom-type>
+		<custom-type translate="1">mc4wp-form</custom-type> 
+	</custom-types>
+	<custom-fields>
+        <custom-field action="copy">doctor_gallery_tax</custom-field>
+    </custom-fields>
+    <admin-texts>	
+        <key name="doctor_option">
+			<key name="opt_logotype" />
+			<key name="opt_customtxt" />
+			<key name="opt_header_contact" />
+			<key name="opt_header_contactsec" />
+			<key name="opt_header_email" />
+			<key name="opt_footer_copyright" />
+			<key name="opt_error_title" />
+			<key name="opt_error_subtitle" />
+			<key name="opt_welcome" />
+			<key name="opt_department" />
+			<key name="opt_extraservice" />
+			<key name="opt_otherservice" />
+			<key name="opt_tabservice" />
+			<key name="opt_offer" />
+			<key name="opt_testimonial" />
+			<key name="opt_team" />
+			<key name="opt_partner" />
+			<key name="opt_accordion" />
+        </key>
+        <key name="doctor_option" />
+		<key name="blogname" />
+    </admin-texts>
+</wpml-config>

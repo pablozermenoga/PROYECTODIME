@@ -1,0 +1,142 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Doctor Toolkit 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-01 15:59+0530\n"
+"PO-Revision-Date: 2016-03-01 05:21+0530\n"
+"Last-Translator: Onista Web <onistaweb@gmail.com>\n"
+"Language-Team: Onista Web <onistaweb@gmail.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ doctor-toolkit
+#: shortcodes/blogpost.php:94 shortcodes/blogpost.php:229
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/blogpost.php:110 shortcodes/blogpost.php:245
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/blogpost.php:129 shortcodes/blogpost.php:264
+msgid "by "
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/blogpost.php:130 shortcodes/blogpost.php:265
+msgid " Ago"
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/blogpost.php:143 shortcodes/blogpost.php:144 shortcodes/blogpost.php:278 shortcodes/blogpost.php:279
+msgid "Read More"
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/blogpost.php:177
+msgid "Featured"
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/blogpost.php:289 shortcodes/blogpost.php:325 shortcodes/gallery.php:195
+msgid "<i class="fa fa-angle-double-left"></i> Prev"
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/blogpost.php:290 shortcodes/blogpost.php:326 shortcodes/gallery.php:196
+msgid "Next <i class="fa fa-angle-double-right"></i>"
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/blogpost.php:291 shortcodes/blogpost.php:327 shortcodes/gallery.php:197
+msgid "Page"
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/careers.php:70
+msgid "or"
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/careers.php:130
+msgid " : "
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/gallery.php:44 shortcodes/gallery.php:123
+msgid "Show All"
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/medicalservice.php:45
+msgid "Or"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/accordion.php:20
+msgid "Accordion"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/accordion.php:69
+msgid "Popular"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/accordion.php:70
+msgid "Recent"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/workingtime.php:20
+msgid "Working Hours"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/workingtime.php:40
+msgid "Lunes"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/workingtime.php:41
+msgid "Martes"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/workingtime.php:42
+msgid "Miercoles"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/workingtime.php:43
+msgid "Jueves"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/workingtime.php:44
+msgid "Viernes"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/workingtime.php:45
+msgid "Sabado"
+msgstr ""
+
+# @ doctor-toolkit
+#: includes/widgets/workingtime.php:46
+msgid "Domingo"
+msgstr ""
+
+# @ doctor-toolkit
+#: shortcodes/tabservicecnt.php:33
+msgid "Services"
+msgstr ""
